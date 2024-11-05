@@ -1,7 +1,3 @@
-Claro! Você pode adicionar uma seção ao README para atribuir a autoria do repositório. Aqui está uma versão atualizada do README do *k8s-troubleshoot-toolkit*, com uma seção de atribuição de autoria no final:
-
----
-
 # k8s-troubleshoot-toolkit
 
 **k8s-troubleshoot-toolkit** é uma coleção de exemplos de deploys, scripts e ferramentas para facilitar testes e troubleshooting em ambientes Kubernetes. O objetivo deste repositório é servir como uma caixa de ferramentas para desenvolvedores e operadores que precisam validar funcionalidades, solucionar problemas e realizar experimentos de conectividade, desempenho e configuração no Kubernetes.
@@ -100,7 +96,3 @@ Contribuições são bem-vindas! Se você deseja adicionar novos cenários de te
 ## Autoria
 
 Este repositório foi criado e é mantido por **Marco Gomes**. Sinta-se à vontade para entrar em contato para sugestões ou colaborações!
-
----
-
-Sinta-se à vontade para substituir “[Seu Nome]” pelo seu nome ou qualquer outro identificador que você prefira usar. Isso deixará claro que você é o criador do repositório!
